@@ -154,7 +154,7 @@ const Blog = () => {
         >
           <div className="modalbox">
             <button className="close-modal" onClick={toggleModalOne}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src="img/svg/cancel.svg" alt="close icon" />
             </button>
             {/* End close icon */}
 
@@ -178,7 +178,7 @@ const Blog = () => {
         >
           <div className="modalbox">
             <button className="close-modal" onClick={toggleModalTwo}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src="img/svg/cancel.svg" alt="close icon" />
             </button>
             {/* End close modal */}
             <div className="box_inner">
@@ -199,7 +199,7 @@ const Blog = () => {
         >
           <div className="modalbox">
             <button className="close-modal" onClick={toggleModalThree}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src="img/svg/cancel.svg" alt="close icon" />
             </button>
             {/* END CLOSE MODAL */}
             <div className="box_inner">

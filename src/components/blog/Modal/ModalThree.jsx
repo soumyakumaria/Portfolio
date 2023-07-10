@@ -37,7 +37,7 @@ const ModalThree = () => {
           className="main"
           style={{
             backgroundImage: `url(${
-              "/img/portfolio/Hanger.JPG"
+              "img/portfolio/Hanger.JPG"
             })`,
           }}
         ></div>
