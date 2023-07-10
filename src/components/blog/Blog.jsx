@@ -199,7 +199,7 @@ const Blog = () => {
         >
           <div className="modalbox">
             <button className="close-modal" onClick={toggleModalThree}>
-              <img src="img/svg/cancel.svg" alt="close icon" />
+              <img src="img/svg/cancel.svg" alt="close-icon" />
             </button>
             {/* END CLOSE MODAL */}
             <div className="box_inner">
