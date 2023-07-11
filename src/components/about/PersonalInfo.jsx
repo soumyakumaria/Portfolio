@@ -6,7 +6,6 @@ const personalInfoContent = [
   { meta: "Country", metaInfo: " Canada" },
   { meta: "Address", metaInfo: " Calgary, AB" },
   { meta: "languages", metaInfo: " English, Hindi" },
-  { meta: "Email", metaInfo: " soumya.kumaria1@gmail.com" },
 ];
 
 const PersonalInfo = () => {

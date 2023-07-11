@@ -6,7 +6,7 @@ import About from "../../components/about/About";
 import Blog from "../../components/blog/Blog";
 import Contact from "../../components/Contact";
 import Address from "../../components/Address";
-import HeaderMobile from "../../components/header/HeaderMobile";
+
 
 const Home = () => {
   const [isDark, setIsDark] = useState(true);
@@ -31,11 +31,7 @@ const Home = () => {
     >
 
 
-      <header className="header-area">
-        <div className="header-inner">
-          <HeaderMobile />
-        </div>
-      </header>
+
 
       <Sidebar />
       {/* End Header */}
