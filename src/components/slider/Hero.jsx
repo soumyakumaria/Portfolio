@@ -42,7 +42,7 @@ const Hero = () => {
                 loop
                 typeSpeed={150}
                 backSpeed={60}
-                strings={["Software Developer"]}
+                strings={["Energetic", "Driven", "Collabrative"]}
                 smartBackspace
                 shuffle={false}
                 backDelay={1}
